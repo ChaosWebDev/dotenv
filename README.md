@@ -10,7 +10,7 @@ Provides simple environment variable management with support for defaults, type 
 Require via Composer:
 
 ```
-composer require cwd/dotenv
+composer require chaoswd/dotenv
 ```
 
 ---
