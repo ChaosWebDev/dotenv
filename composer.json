@@ -1,5 +1,5 @@
 {
-    "name": "chaos/dotenv",
+    "name": "cwd/dotenv",
     "description": "Dotenv loader for Chaos framework",
     "type": "library",
     "autoload": {
